@@ -1,0 +1,32 @@
+<年-月-等级-第几套>
+
+Section A:
+Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item in the following passage with a number. You may not use any of the words in the bank more than once.
+Questions 36 to 45 are based on the following passage.
+Passage:
+<文章内容>
+
+Questions:
+<问题内容>
+
+Section B:
+Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter.
+Passage:
+<文章内容>
+
+Questions:
+<问题内容>
+
+Section C:
+Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C) and D). You should decide on the best choice and mark the corresponding letter
+Passage1:
+<文章内容>
+
+Questions:
+<问题内容>
+
+Passage2:
+<文章内容>
+
+Questions:
+<问题内容>

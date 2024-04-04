@@ -1,0 +1,7 @@
+openai
+PyPDF2
+python-dotenv
+langchain_community
+unstructured
+unstructured[all-docs]
+openai==0.28
